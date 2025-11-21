@@ -14,7 +14,7 @@ int main() {
     printf("Estado (A-H): ");          //Estado com apenas um caractere entre A e H
     scanf(" %c", &estado1);
 
-    printf("Codigo da Carta (ex: A01): ");  //Código da carta com Um caracter e 2 Numerais
+    printf("Codigo da Carta (ex: A01): ");  //Código da carta com Um caracter e até 3 Numerais
     scanf("%s", codigo1);
 
     printf("Nome da Cidade: ");          //Nome da cidade
