@@ -11,7 +11,7 @@
     double pib_digitado1,pib_digitado2; // O valor digitado pelo usuário 
     double pib_real1,pib_real2;         // Valor em reais facilitando a divisão
 
-       // Entradas para a primeira carta
+       // Entradas para a Primeira Carta
 int main() {
     printf(" Cadastro da Carta 1 \n"); //Inicio das Informações
 
@@ -40,7 +40,7 @@ int main() {
     densidade1 = (float)populacao1 / area1;
     capita1 = (float)pib_real1 / populacao1;
 
-    //  Entrada para Segunda carta
+    //  Entrada para Segunda Carta
     printf("\n Cadastro da Carta 2 \n");    //Todo o procedimento repetido código por código
 
     printf("Estado (A-H): ");
